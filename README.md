@@ -1,6 +1,6 @@
 
 
-** Dream 11 Prediction Project**
+ Dream 11 Score Prediction Project
 
  Overview
 
